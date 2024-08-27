@@ -33,7 +33,7 @@ Once the matches have been logged, select option 3 to view the standings and see
 
 To view the complete code, kindly refer to [simple_football_system.py](simple_football_system.py) and [simple_football_app.py](simple_football_app.py)
 
-### Next stage - [Football Project - Part 2](https://github.com/n1k35h/football_project_part2_using-python_-_sql)
+### Next stage - [Football Project - Part 2](https://github.com/n1k35h/football_project/tree/main/football_project_part2_using-python_-_sql)
 - Adding more SQL queries
 - To add Goals Scored and Goals Conceded to the League table.
 - View all matches
