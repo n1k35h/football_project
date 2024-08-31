@@ -1,5 +1,7 @@
 # Simple Football project - Part 1
-I have developed a basic football application utilizing SQL and Python technologies. This project highlights my proficiency in Python and SQL database management.
+This project highlights my proficiency in Python and SQL database management.
+
+I have developed a basic football application utilizing SQL and Python technologies. 
 
 The application enables users to enter a football team, which then becomes part of the league table. Users can record match results to assess the teams' standings within the league.
 
